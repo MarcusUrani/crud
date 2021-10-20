@@ -1,0 +1,14 @@
+{
+  "profile": [
+    {
+      "nome": "Marcus Urani",
+      "email": "marcus.urani20@gmail.com",
+      "id": 1
+    },
+    {
+      "nome": "Lucas Rodrigues",
+      "email": "lucas.rodrigues@email.com",
+      "id": 2
+    }
+  ]
+}
