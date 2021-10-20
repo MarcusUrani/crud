@@ -24,6 +24,7 @@
 
 .botao-simples--excluir {
     color: var(--cor-aviso);
+    cursor: pointer;
 }
 
 .botao-simples--editar {
