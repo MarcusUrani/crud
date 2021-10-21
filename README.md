@@ -1,7 +1,3 @@
-abrir a pasta admin no vscode e 
-rodar o json server: 
-```js
-json-server --watch db.json
-```
+#Crud
 
-Rodar: browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html
+Projeto desenvolvido utilizando JS, NodeJs, HTML, CSS. É um modelo de lista de clientes, com nome e email, em que é utilizada uma api para armazenar os dados dos clientes, é possível adicionar, remover e editar clientes.
